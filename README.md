@@ -1,6 +1,12 @@
 # cynic-cycles
 
-> A Vue.js project
+## Todo
+
+1. Backend that connects to elastic search
+2. Python?
+3. Https on intended site
+4. Deploy on? Probably on Aws
+5. ?
 
 ## Build Setup
 
